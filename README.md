@@ -1,1 +1,1 @@
-# twitter-wordtriggerbot
+# twitter-wordtriggerbot for AWS lambda
